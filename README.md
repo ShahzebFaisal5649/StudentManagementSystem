@@ -87,3 +87,6 @@ The database schema consists of the following tables:
 1. **Clone the Repository**: 
    ```bash
    git clone https://github.com/yourusername/student-management-system.git
+
+   
+![Screenshot 2024-08-09 152555](https://github.com/user-attachments/assets/01230937-18f5-436e-9e9c-c2785b3c1c06)
